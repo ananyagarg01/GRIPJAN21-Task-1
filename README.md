@@ -9,4 +9,5 @@ In this regression task we will predict the percentage of marks that a student i
 To Calculate: What will be predicted score if a student studies for 9.25 hrs/ day?
 
 Link to the dataset: http://bit.ly/w-data
+
 Video (YouTube) Link: https://youtu.be/3RAle0q-aYU
